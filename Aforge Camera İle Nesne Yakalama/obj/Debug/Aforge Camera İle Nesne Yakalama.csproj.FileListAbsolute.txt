@@ -1,0 +1,98 @@
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.exe
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Controls.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Fuzzy.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Genetic.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.MachineLearning.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Math.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Neuro.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Kinect.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.VFW.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Ximea.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Vision.dll
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Controls.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Fuzzy.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Genetic.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.MachineLearning.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Math.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Neuro.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Kinect.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.VFW.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Ximea.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Vision.xml
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge_Camera_İle_Nesne_Yakalama.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge_Camera_İle_Nesne_Yakalama.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.exe
+c:\users\everest\documents\visual studio 2013\Projects\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.pdb
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.exe.config
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.exe
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.pdb
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.exe
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\Aforge Camera İle Nesne Yakalama.pdb
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Controls.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Fuzzy.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Genetic.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.Formats.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.MachineLearning.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Math.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Neuro.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Lego.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Surveyor.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.TeRK.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.DirectShow.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.FFMPEG.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Kinect.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.VFW.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Ximea.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Vision.dll
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Controls.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Fuzzy.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Genetic.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Imaging.Formats.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.MachineLearning.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Math.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Neuro.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Lego.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.Surveyor.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Robotics.TeRK.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.DirectShow.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.FFMPEG.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Kinect.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.VFW.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Video.Ximea.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\bin\Debug\AForge.Vision.xml
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.csprojResolveAssemblyReference.cache
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge_Camera_İle_Nesne_Yakalama.Form1.resources
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge_Camera_İle_Nesne_Yakalama.Properties.Resources.resources
+E:\Özel Tekli Ders\Aforge Camera\Aforge Camera İle Nesne Yakalama\Aforge Camera İle Nesne Yakalama\obj\Debug\Aforge Camera İle Nesne Yakalama.csproj.GenerateResource.Cache
